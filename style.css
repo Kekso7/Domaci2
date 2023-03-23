@@ -1,3 +1,30 @@
 img {
-    width: 30%;
+	width: 30%;
+}
+
+.profileimage {
+	border-radius: 20px;
+}
+
+.podvucenNaslov {
+	text-decoration-line: underline;
+	text-decoration-color: salmon;
+}
+
+.drugaBoja {
+	color: salmon;
+}
+
+.navigacija {
+	background-color: aqua;
+	text-align: center;
+}
+
+footer {
+	background-color: aqua;
+	text-align: center;
+}
+
+.kontejner {
+	text-align: center;
 }
